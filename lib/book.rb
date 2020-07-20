@@ -6,4 +6,8 @@ class Book
 def title 
   @title 
   end 
+  
+  def book_author
+  @book_author = "Agatha Christie"
+  end 
 end 
