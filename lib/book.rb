@@ -7,7 +7,7 @@ def title
   @title 
   end 
   
-  def book_author
-  @book_author = "Agatha Christie"
+  def author=(author)
+  @author = "Agatha Christie"
   end 
 end 
