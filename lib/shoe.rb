@@ -32,7 +32,7 @@ class Shoe
   end 
   
   def condition=(condition)
-    @condition = tattered
+    @condition = condition
   end 
   
   def condition
@@ -43,7 +43,7 @@ class Shoe
     puts "Your shoe is as good as new!"
   end 
   
-  def condition=(condition)
+  def cobble=(condition)
     @condition = "new"
   end 
 end 
