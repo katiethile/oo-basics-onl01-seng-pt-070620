@@ -44,6 +44,9 @@ class Shoe
   end 
   
   def cobble
-    
+    @condition 
   end 
 end 
+
+condition = Shoe.new
+condition
