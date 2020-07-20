@@ -1,2 +1,4 @@
 class Shoe 
-  def 
+  def initialize(brand)
+    
+  end 
